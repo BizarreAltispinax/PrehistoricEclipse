@@ -1,6 +1,0 @@
-{
-  "parent": "block/tinted_cross",
-  "textures": {
-    "cross": "pe:blocks/magnolia_sapling_bottom"
-  }
-}

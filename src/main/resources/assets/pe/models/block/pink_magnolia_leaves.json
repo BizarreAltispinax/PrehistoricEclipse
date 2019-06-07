@@ -1,6 +1,0 @@
-{
-  "parent": "block/leaves",
-  "textures": {
-    "all": "pe:blocks/pink_magnolia_leaves"
-  }
-}
